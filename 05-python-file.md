@@ -58,4 +58,28 @@ enclosed
 mode
 ```
 
-## 
+## file的with用法
+
+好处就是更轻便，有节操的程序员就用这个
+
+```
+import codecs
+import linecache
+
+with codecs.open('1.txt', 'rb') as f:
+    print(f.read())
+    print(f.closed)
+print(f.closed)
+
+# When you quit the look, file object will be closed automatically
+
+with codecs.open('1.txt', 'rb') as ff:
+    for line, value in enumerate(ff):
+        #print(line, value)
+        # if you want to print a specific line (line3)
+        if line == 3 - 1:
+            print(value)
+
+count = linecache.getline('1.txt', 2)
+print(count)
+```

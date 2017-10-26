@@ -43,6 +43,7 @@ print(totalSum)
 ```
 list1 = [2,32,43,453,54,6,576,5,7,6,8,78,7,89]
 list1.sort()
+print(list1)
 ```
 
 ## 复习字典排序，字符串， list， tuple常用方法
