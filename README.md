@@ -10,3 +10,7 @@ Date | Learning Notes |
  2017-10-24 | 1024休息 |
  2017-10-25 | [Manipulating File](./05-python-file.md) |
  2017-10-26 | [Practice](./06-practice.md) |
+ 2017-10-27 | 有事备考 |
+ 2017-10-28 | 考试 |
+ 2017-10-29 | 上午考试，下午复习Python |
+ 2017-10-30 | Python的函数 |
