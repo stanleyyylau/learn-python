@@ -14,4 +14,7 @@ Date | Learning Notes |
  2017-10-28 | 考试 |
  2017-10-29 | 上午考试，下午复习Python |
  2017-10-30 | [Python习题](./07-practice.md) |
- 2017-10-30 | Python的函数 |
+ 2017-10-30 | [Python的函数](./08-python-functions.md) |
+ 2017-10-31 | Company Gathering On Halloween |
+ 2017-11-01 | [Python的类](./09-python-class.md) |
+ 
